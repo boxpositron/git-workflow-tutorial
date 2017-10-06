@@ -6,3 +6,4 @@ Test repository to learn Git with.
 - Noel Obaseki
 - Olohireme Ajayi
 - Echubi Udale-Ameh
+- Arausi Daniel
