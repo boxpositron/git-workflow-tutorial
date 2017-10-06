@@ -11,3 +11,4 @@ Test repository to learn Git with.
 - Fanan Dala
 - Ebenezer Igbinoba
 - John Ayeni
+- Faith Yaya
