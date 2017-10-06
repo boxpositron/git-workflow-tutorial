@@ -3,4 +3,8 @@ Test repository to learn Git with.
 
 ## Contributors
 - Nicholas Kajoh
--Ademigoke Emmanuel
+- Noel Obaseki
+- Olohireme Ajayi
+- Echubi Udale-Ameh
+- Arausi Daniel
+- Ademigoke Emmanuel
