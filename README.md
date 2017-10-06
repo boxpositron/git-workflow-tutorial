@@ -10,3 +10,4 @@ Test repository to learn Git with.
 - Ademigoke Emmanuel
 - Fanan Dala
 - Ebenezer Igbinoba
+- John Ayeni
