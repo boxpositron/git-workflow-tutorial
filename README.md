@@ -8,3 +8,4 @@ Test repository to learn Git with.
 - Echubi Udale-Ameh
 - Arausi Daniel
 - Ademigoke Emmanuel
+- Fanan Dala
