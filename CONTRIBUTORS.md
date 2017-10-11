@@ -11,3 +11,4 @@
 - John Ayeni
 - Faith Yaya
 - Oluwabusola Ayodele
+- Samuel Oyewole
