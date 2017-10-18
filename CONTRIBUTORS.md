@@ -12,3 +12,4 @@
 - Faith Yaya
 - Oluwabusola Ayodele
 - Samuel Oyewole
+- Adeleye Tolulope
